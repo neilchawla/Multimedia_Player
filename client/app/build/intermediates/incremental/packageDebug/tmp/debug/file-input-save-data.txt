@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Dec 04 17:17:52 CST 2020
+1.base=/Users/neilchawla/Desktop/Project 5/client/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/neilchawla/Desktop/Project 5/client/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+1.path=classes.dex

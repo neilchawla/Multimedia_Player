@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FunClient</string>
+    <string name="audio_hint">Enter Audio Clip Number</string>
+    <string name="select_audio">Select Audio Clip</string>
+    <string name="select_image">Select Image</string>
+    <string name="image_hint">Enter Image Number</string>
+    <string name="image_button">Fetch</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+
+    <string-array name="audio_dropdown">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="image_dropdown">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
